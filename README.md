@@ -1,4 +1,11 @@
-# Quantal-roleplay
-QL-RP  - is a mod for KAG(King Arthur's Gold)
+A ql-rp a new KAG mod, about Roleplaying, live, surviving on Earth 🌎
 
-#If you are artist or coder you can help
+--QL-RP--
+Is a sandbox where you can make your own army or attack someone.
+All what you want!
+
+--Thanks for QLT Members--
+*Markoss(Spriter)
+*Ban All Sandwiches(Some sprites)
+*QuantalJ(Coder)
+*DeadBreadTm(Community)
